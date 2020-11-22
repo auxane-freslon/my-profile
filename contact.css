@@ -1,0 +1,87 @@
+div#tete div{
+	display: inline-block;
+}
+
+
+div#tete div.plogo{
+	width: 12%;
+}
+
+div#tete div.pmenu{
+	vertical-align: top;
+	width: 85%;
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 18px;
+	font-weight: 300;
+
+}
+
+div#tete{
+	background-color: black;
+}
+
+.bouton{
+	display: inline-block;
+	list-style-type: none;
+}
+
+.bouton a{
+	text-decoration: none;
+	color: white;
+	padding: 100px
+}
+
+.bouton:hover a{
+	color: grey;
+	transition: 1s all;
+}
+
+
+.contenantc {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  position: relative;
+  text-align: center;
+  color: black;
+  font-family: sans-serif;
+}
+
+.texte_centrer {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin-right: 150px;
+}
+
+
+body{
+	background-color: #f7f7f7;
+}
+
+footer{
+	background-color: black;
+	padding-top: 70px;
+}
+
+.insta{
+	margin-left: 100px;
+	vertical-align: center;
+}
+
+.linkedin{
+	margin-left: 100px;
+	padding-bottom: 50px;
+}
+
+.copy{
+	color: white;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+.logod{
+	text-align: right;
+	margin-right: 70px;
+}

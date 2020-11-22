@@ -1,0 +1,113 @@
+div#tete div{
+	display: inline-block;
+}
+
+
+div#tete div.plogo{
+	width: 12%;
+}
+
+div#tete div.pmenu{
+	vertical-align: top;
+	width: 85%;
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 18px;
+	font-weight: 300;
+
+}
+
+div#tete{
+	background-color: black;
+}
+
+h2{
+	font-family: sans-serif;
+}
+
+h3{
+	font-family: sans-serif;
+}
+
+.bouton{
+	display: inline-block;
+	list-style-type: none;
+}
+
+.bouton a{
+	text-decoration: none;
+	color: white;
+	padding: 100px
+}
+
+.bouton:hover a{
+	color: grey;
+	transition: 1s all;
+}
+
+
+.text1{
+	margin-top: 50px;
+	margin-left: 50px;
+	margin-right: 350px;
+	margin-bottom: 50px;
+}
+
+.moi{
+	text-align: right;
+	margin-right: 100px;
+}
+
+.flotte {
+   float:right;
+   margin-top: 30px;
+}
+
+.text2{
+	margin-top: 60px;
+	margin-left: 50px;
+	margin-right: 100px;
+}
+
+.maptxt{
+	text-align: center;
+	margin-top: 80px;
+}
+
+.maps{
+	text-align: center;
+	margin-bottom: 100px;
+}
+
+body{
+	background-color: white;
+}
+
+footer{
+	background-color: black;
+	padding-top: 70px;
+}
+
+.insta{
+	margin-left: 100px;
+	vertical-align: center;
+}
+
+.linkedin{
+	margin-left: 100px;
+	padding-bottom: 50px;
+}
+
+.copy{
+	color: white;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+.logod{
+	text-align: right;
+	margin-right: 70px;
+}
+
+
+
